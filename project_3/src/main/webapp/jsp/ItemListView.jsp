@@ -72,7 +72,7 @@
 			%>
 			<center>
 				<h1 class="text-primary font-weight-bold pt-3">
-					<u>Item List</u>
+					<u>Item List 3</u>
 				</h1>
 			</center>
 			<div class="row">
